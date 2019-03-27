@@ -1,6 +1,6 @@
 # Privacy Policy
 
-IWMAC built AlarmHandler, CheckPoint and Manager as a Commercial app. This SERVICE is provided by IWMAC and is intended for use as is.
+IWMAC built AlarmHandler and CheckPoint as a Commercial app. This SERVICE is provided by IWMAC and is intended for use as is.
 
 This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -11,9 +11,9 @@ CheckPoint is used as a scheduling tool to perform tasks and daily routines. We 
 
 The application does track user behaviour using Visual Studio App Center where data is kept for 90 days to help us identify crashes and other problems with our application.
 
+## AlarmHandler
+This app is used to process alarms that are generated on plants your account is connected to.
+
 ### Camera
 Used for permissions that are associated with accessing camera or capturing images from the device.
 This permission allows this application to capture and save pictures taken with the device by the user. These pictures are stored securely in a database using HTTPS and can only be viewed by other verified members of the same firm as the user and internally by iwmac admins. The pictures are not distributed or made public to any third-party.
-
-## AlarmHandler
-This app is used to process alarms that are generated on plants your account is connected to.
