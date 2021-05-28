@@ -16,4 +16,8 @@ This app is used to process alarms that are generated on plants your account is 
 
 ## Camera
 Used for permissions that are associated with accessing camera or capturing images from the device.
-This permission allows this application to capture and save pictures taken with the device by the user. These pictures are stored securely in a database using HTTPS and can only be viewed by other verified members of the same firm as the user and internally by iwmac admins. The pictures are not distributed or made public to any third-party.
+This permission allows this application to capture and save pictures taken with the device by the user. These pictures are stored securely in a database using HTTPS and can only be viewed by other verified members of the same firm as the user and internally by IWMAC admins. The pictures are not distributed or made public to any third-party.
+
+## Background Location
+Used for permissions that are associated with connecting and retrieving temperature values from a Bluetooth Low Energy thermometer (specifically a BlueTherm device).
+This permission allows this application to measure temperatures and use these measurements to complete routine tasks. These measurements are stored securely in a database using HTTPS and can only be viewed by other verified members of the same firm as the user and internally by IWMAC admins. Only the temperatures retrieved in the background location are stored and no device location data. The measurements are not distributed or made public to any third-party.
